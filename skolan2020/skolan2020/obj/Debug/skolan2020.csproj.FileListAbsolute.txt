@@ -1,0 +1,21 @@
+C:\Users\kamal\source\repos\skolan2020\skolan2020\bin\Debug\skolan2020.exe.config
+C:\Users\kamal\source\repos\skolan2020\skolan2020\bin\Debug\skolan2020.exe
+C:\Users\kamal\source\repos\skolan2020\skolan2020\bin\Debug\skolan2020.pdb
+C:\Users\kamal\source\repos\skolan2020\skolan2020\obj\Debug\skolan2020.csprojAssemblyReference.cache
+C:\Users\kamal\source\repos\skolan2020\skolan2020\obj\Debug\skolan2020.Form1.resources
+C:\Users\kamal\source\repos\skolan2020\skolan2020\obj\Debug\skolan2020.Properties.Resources.resources
+C:\Users\kamal\source\repos\skolan2020\skolan2020\obj\Debug\skolan2020.csproj.GenerateResource.cache
+C:\Users\kamal\source\repos\skolan2020\skolan2020\obj\Debug\skolan2020.csproj.CoreCompileInputs.cache
+C:\Users\kamal\source\repos\skolan2020\skolan2020\obj\Debug\skolan2020.exe
+C:\Users\kamal\source\repos\skolan2020\skolan2020\obj\Debug\skolan2020.pdb
+B:\c#_programmering från gymnasiet\source\repos\skolan2020\skolan2020\obj\Debug\skolan2020.csproj.AssemblyReference.cache
+B:\c#_programmering från gymnasiet\source\repos\skolan2020\skolan2020\obj\Debug\skolan2020.csproj.SuggestedBindingRedirects.cache
+B:\c#_programmering från gymnasiet\source\repos\skolan2020\skolan2020\obj\Debug\skolan2020.Form1.resources
+B:\c#_programmering från gymnasiet\source\repos\skolan2020\skolan2020\obj\Debug\skolan2020.Properties.Resources.resources
+B:\c#_programmering från gymnasiet\source\repos\skolan2020\skolan2020\obj\Debug\skolan2020.csproj.GenerateResource.cache
+B:\c#_programmering från gymnasiet\source\repos\skolan2020\skolan2020\obj\Debug\skolan2020.csproj.CoreCompileInputs.cache
+B:\c#_programmering från gymnasiet\source\repos\skolan2020\skolan2020\obj\Debug\skolan2020.exe
+B:\c#_programmering från gymnasiet\source\repos\skolan2020\skolan2020\obj\Debug\skolan2020.pdb
+B:\c#_programmering från gymnasiet\source\repos\skolan2020\skolan2020\bin\Debug\skolan2020.exe.config
+B:\c#_programmering från gymnasiet\source\repos\skolan2020\skolan2020\bin\Debug\skolan2020.exe
+B:\c#_programmering från gymnasiet\source\repos\skolan2020\skolan2020\bin\Debug\skolan2020.pdb
